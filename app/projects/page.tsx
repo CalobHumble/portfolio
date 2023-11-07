@@ -24,7 +24,7 @@ export default function Home() {
             </div>
           </div>
           <div className="col-span-5 gap-3 grid lg:mt-0">
-            <Image src='/screenshots/bella.png' isBlurred={true} />
+            <Image src='/screenshots/bella.png' isBlurred={true} alt='Screenshot of the Bella website and mobile app'/>
           </div>                
         </div>
       </section>
